@@ -1,0 +1,11 @@
+# Secrets & Environment Variables
+.env
+
+# Serialized ML Models
+*.pkl
+
+# Python Cache & Jupyter Checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
